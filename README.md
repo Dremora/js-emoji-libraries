@@ -13,6 +13,7 @@ This is a list of prominent JavaScript libraries using emoji as part of their ti
 - 🌈 [ink](https://github.com/vadimdemedes/ink)
 - 🍃 [leaflet](https://github.com/Leaflet/Leaflet)
 - 📦🚀 [parcel](https://github.com/parcel-bundler/parcel)
+- 🚫💩 [lint-staged](https://github.com/okonet/lint-staged)
 - ⚡️ [poi](https://github.com/egoist/poi)
 - ✨ [polished](https://github.com/styled-components/polished)
 - ⚛️ [preact](https://github.com/developit/preact)
