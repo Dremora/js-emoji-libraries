@@ -1,6 +1,6 @@
 # JavaScript emoji libraries
 
-This is a list of prominent JavaScript libraries using emoji as part of their title, logo or GitHub short description. Pick one for your library until they're all taken! Or... just pick one anyway since there are some duplicates anyway.
+This is a list of prominent JavaScript libraries using emoji as part of their title, logo or GitHub short description. Pick one for your library until they're all taken! Or... just pick one anyway since there are already some duplicates.
 
 - 🎨 carbon (https://github.com/dawnlabs/carbon)
 - ✂️ clipboard.js (https://github.com/zenorocha/clipboard.js)
