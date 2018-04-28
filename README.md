@@ -38,4 +38,4 @@ This is a list of prominent JavaScript libraries using emoji as part of their ti
 
 ## Not emoji
 
-- :a[tom: atom](https://github.com/atom/atom) - only supported by GitHub Flavored Markdown. To render, type `:atom:`.
+- :atom: [atom](https://github.com/atom/atom) - only supported by GitHub Flavored Markdown. To render, type `:atom:`.
